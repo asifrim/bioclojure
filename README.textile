@@ -1,3 +1,4 @@
+HALLO Jan, ik heb uw bioclojure gekloon
 h1. BioClojure
 
 BioClojure is (the seed of) a collection of functions that provides bioinformatics functionality to the <a href="http://clojure.org">clojure</a> programming language. Clojure is a young functional programming language that runs on the JVM. BioClojure uses <a href="http://incanter.org">incanter</a> to provide R-like statistical functionality.
